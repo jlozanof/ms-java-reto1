@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Reto1Application",
+            "request": "launch",
+            "mainClass": "com.practicas.retos.Reto1Application",
+            "projectName": "reto1"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto1Application<reto1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.practicas.reto1.Reto1Application",
+            "projectName": "reto1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
